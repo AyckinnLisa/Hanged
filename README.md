@@ -24,7 +24,7 @@ Famous Hangman game.
 ---
 
 ### *CHANGELOG*
-Version 1.0 - April 01' 2024
+Version 1.0 - April 30' 2024
 - Initial release
 - 70 words to guess
 - Color Hangman error level (Green, Yellow, Red, Black)
