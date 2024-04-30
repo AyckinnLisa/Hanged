@@ -10,7 +10,7 @@ def logo():
  =      - Autheur   : Ayckinn                                          =
  =      - Site      : www.ayckinn.fr                                   =
  =      - Mail      : ayckinn@icloud.com                               =
- =      - Sortie    : May xx' 2024                                     =
+ =      - Sortie    : April 30' 2024                                   =
  =      - Github    : https://github.com/AyckinnLisa?tab=repositories  =
  =      - Copyright : ©2024                                            =
  =======================================================================
