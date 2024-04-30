@@ -1,5 +1,5 @@
 # Hanged v1.0
-Famous Hangman game.
+CLI : Famous Hangman game.
 70 words to guess, 6 attempts to solve.
 
 ---
